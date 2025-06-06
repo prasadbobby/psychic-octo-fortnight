@@ -92,9 +92,9 @@ export default function Header() {
               </div>
               <div className="flex flex-col">
                 <span className="font-bold text-xl text-white">
-                  AI Tutor Pro
+                  Agent Guru
                 </span>
-                <span className="text-xs text-purple-100 -mt-1">Powered by Advanced AI</span>
+                <span className="text-xs text-purple-100 -mt-1">Powered by AI Mavericks</span>
               </div>
             </Link>
           </div>
